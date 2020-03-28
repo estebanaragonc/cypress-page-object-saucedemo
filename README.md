@@ -21,6 +21,14 @@ Para ejecutar las pruebas debes abrir cypress escribiendo el siguiente comando
 
 Una vez cypress arranque debes seleccionar la carpeta donde está ubicado el proyecto (la misma donde está este archivo)
 
+En total son 5 pruebas, cada prueba consiste en ejecutar lo que indicaba cada punto solicitado, ejemplo:
+
+test 1: Login and logout (Basic and alternate courses) with all the users
+
+Y así sucesivamente. 
+
+
+
 # Instalación
 
 Si cypress no está instalado en tu equipo lo puedes instalar ejecutando el siguiente comando
@@ -28,3 +36,5 @@ Si cypress no está instalado en tu equipo lo puedes instalar ejecutando el sigu
 `npm install -g cypress`
 
 **Nota:** Previamente debes tener instalado y configurado node.js
+
+# De Elvis pal mundo
