@@ -1,4 +1,4 @@
-# Pruebas automatizadas "Estrellame"
+# Pruebas automatizadas "Saucedemo"
 
 Framework básico de pruebas automatizadas saucedemo
 
